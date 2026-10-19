@@ -63,6 +63,8 @@ uv run python MathSolverApp/math_solver.py
 
 Open the local URL printed by Gradio in your browser.
 
+![Math solver interface](image.png)
+
 ### Chatbot API (optional)
 
 ```powershell
